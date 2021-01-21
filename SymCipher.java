@@ -1,6 +1,5 @@
-/**  Interface for symmetric ciphers to be used with Assignment 4.
- * This must be implemented by both your Add128 and Substitute classes.
- * Adapted from Dr. John Ramirez's CS 1501 Assignment 4
+/**  Interface for symmetric ciphers 
+ * This must be implemented by both Add128 and Substitute classes.
  */
 public interface SymCipher
 {
