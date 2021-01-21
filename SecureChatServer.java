@@ -3,17 +3,13 @@ import java.io.*;
 import java.net.*;
 import java.math.*;
 
-/** Main Program for Chat Server to be used with Assignment 4.
- *  You must use the program as written without any changes.  Note that this
- *  program requires the following:
+/** Main Program for Chat Server to be used
+ *  Note that this program requires the following:
  *     		keys.txt where the RSA keys are stored
  *     		SymCipher.java, the interface for the symmetric ciphers
  *     		Substitute.java, the substitution cipher
  *     		Add128.java, the addition cipher
- *   The first two files are provided for you, but you must write the other two, as
- *   well as the client program, yourself.
- *   See more details on these requirements in the assignment description.
- * Adapted from Dr. John Ramirez's CS 1501 Assignment 4
+ *  
  */
 public class SecureChatServer {
 
